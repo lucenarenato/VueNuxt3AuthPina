@@ -4,6 +4,9 @@
 
 ## Preview
 
+<p align="center"><a href="https://nuxt.com" target="_blank"><img src="2024-06-11_14-29.png" width="400" alt="Nuxt Logo"></a></p>
+
+
 <div>
   <a href="https://stackblitz.com/github/nuxtbase/nuxt3-starter" rel="nofollow" target="_blank"><img src="https://camo.githubusercontent.com/bf5c9492905b6d3b558552de2c848c7cce2e0a0f0ff922967115543de9441522/68747470733a2f2f646576656c6f7065722e737461636b626c69747a2e636f6d2f696d672f6f70656e5f696e5f737461636b626c69747a2e737667" alt="" data-canonical-src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" style="max-width: 100%;"></a>
 </div>
@@ -55,3 +58,5 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+- Renato Lucena
