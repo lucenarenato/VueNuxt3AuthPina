@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@pinia/nuxt": "^0.4.11",
+    "@types/js-cookie": "^3.0.3",
+    "@types/node": "^20.2.5",
+    "nuxt": "^3.5.2",
+    "pinia": "^2.1.3",
+    "prettier": "^2.8.8",
+    "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "js-cookie": "^3.0.5"
+  }
+}
